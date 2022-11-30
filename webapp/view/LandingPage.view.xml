@@ -4,6 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content >
         <Label id="_IDGenLabel1"  text="Hi, User"></Label>
+        <Button text="Test" type="Emphasized"/>
         </content>
     </Page>
 </mvc:View>

@@ -1,7 +1,7 @@
 _schema-version: '3.2'
 ID: cg-coe-piperapp
 description: A Fiori application.
-version: 0.0.2
+version: 0.0.3
 modules:
   - name: cg-coe-piperapp-destination-content
     type: com.sap.application.content
