@@ -5,8 +5,11 @@ sap.ui.getCore().attachInit(function () {
 	"use strict";
 
 	sap.ui.require([
-		"cgcoe/piperapp/test/unit/AllTests"
+		"cg/coe/piperapp/test/unit/AllTests"
 	], function () {
-		QUnit.start();
+		debugger
+		var unit = QUnit.start();
+
+		console.log(unit);
 	});
 });
