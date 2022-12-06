@@ -3,8 +3,8 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content >
-        <Label id="_IDGenLabel1"  text="Hi, User"></Label>
-        <Text id="_IDGenText1" text="Enter details.."/>
+        <Label text="Hi, User"></Label>
+        <Text text="Enter details.."/>
         <Button text="Test" type="Emphasized"/>
         </content>
     </Page>
